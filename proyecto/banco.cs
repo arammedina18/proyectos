@@ -6,5 +6,10 @@ namespace proyecto
 {
     class banco
     {
+        public void Datos ()
+        {
+
+        }
+
     }
 }
